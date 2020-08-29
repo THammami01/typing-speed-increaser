@@ -3,11 +3,17 @@ Program that will help students and everyone practice and increase their typing 
 
 ## How To
 
-After cloning this repuository, and in order to run the application, just type in the command line: 
+After cloning this repuository, and in order to run the application, just type in the command line:
+
+```bash
 python app_v2.0.py
+```
 
 In order to open settings page, type:
+
+```bash
 python app_v2.0.py
+```
 
 Note that:
 - python 3.x must be installed first
