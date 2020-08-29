@@ -18,4 +18,4 @@ Changing settings will require the user to open the program again in order for c
 
 - VERSION 2.0
 Things are better now.
-Results are saved.
+Results are saved (not yet actually).
