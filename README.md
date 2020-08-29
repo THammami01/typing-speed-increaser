@@ -18,7 +18,7 @@ python setting_v2.0.py
 
 Note that:
 - python 3.x must be installed first
-- .exe files will be uploaded in future commits
+- .exe files will be uploaded in future commits and python will no longer be required to run this program
 
 ![IMG1](https://z-p3-scontent.ftun6-1.fna.fbcdn.net/v/t1.15752-9/118580571_1493939067660439_6125013222842830874_n.png?_nc_cat=105&_nc_sid=b96e70&_nc_ohc=Uzk2_TK1KK0AX-W5Amc&_nc_ht=z-p3-scontent.ftun6-1.fna&oh=5e48150093c7a77bdb806fea085a89d8&oe=5F70EB8B)
 
