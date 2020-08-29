@@ -3,7 +3,7 @@ Program that will help students and everyone practice and increase their typing 
 
 ## How To
 
-In order to run your program just type on the command line: 
+After cloning this repuository, and to run the application, just type in the command line: 
 python app_v2.0.py
 
 In order to open settings page, type:
