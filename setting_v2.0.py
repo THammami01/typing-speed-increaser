@@ -180,7 +180,7 @@ def show_about():
             "Caviar Dreams Bold", "12", "bold"), fg="white", bg="#080808", relief=tk.RIDGE, borderwidth=2)
     about_label.pack(side=tk.TOP, fill=tk.BOTH,
                       anchor=tk.CENTER, padx=10, pady=10)
-    cont = "TSI (Typing Speed Increaser)\n\nVersion 1.0.0\n\n\nProgram that will help students and everyone practice and increase their typing speed."
+    cont = "TSI (Typing Speed Increaser)\n\nVersion 2.0.0\n\n\nProgram that will help students and everyone practice and increase their typing speed."
     about_text = tk.Label(about_tl, text=cont, width=10, wraplength=250, pady=0, font=(
             "Caviar Dreams Bold", "10", "bold"), fg="white", bg="#080808")
     about_text.pack(side=tk.TOP, fill=tk.BOTH,
