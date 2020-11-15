@@ -18,7 +18,7 @@ python setting_v2.0.py
 
 Note that:
 - python 3.x must be installed first
-- .exe files will be uploaded in future commits and python will no longer be required to run this program
+- .exe files will be uploaded in future commits and python installation will no longer be required to run this program
 
 ## App Preview
 
