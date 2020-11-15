@@ -20,11 +20,9 @@ Note that:
 - python 3.x must be installed first
 - .exe files will be uploaded in future commits and python will no longer be required to run this program
 
-![IMG1](https://scontent.ftun5-1.fna.fbcdn.net/v/t1.15752-9/118566505_2623489101315184_14490849271380032_n.png?_nc_cat=110&ccb=2&_nc_sid=ae9488&_nc_ohc=R_Y32jjlcNIAX-we11h&_nc_ht=scontent.ftun5-1.fna&oh=68f17ef51b5c7b710240b505a0838662&oe=5FD6E3B3)
-
 ## App Preview
 
-![IMG2](https://z-p3-scontent.ftun6-1.fna.fbcdn.net/v/t1.15752-9/118566505_2623489101315184_14490849271380032_n.png?_nc_cat=110&_nc_sid=b96e70&_nc_ohc=cToSkDyhM_UAX84u56J&_nc_ht=z-p3-scontent.ftun6-1.fna&oh=ab941a261abef17c5b67d36515d3dd18&oe=5F700EB3)
+![IMG2](https://scontent.ftun5-1.fna.fbcdn.net/v/t1.15752-9/118566505_2623489101315184_14490849271380032_n.png?_nc_cat=110&ccb=2&_nc_sid=ae9488&_nc_ohc=R_Y32jjlcNIAX-we11h&_nc_ht=scontent.ftun5-1.fna&oh=68f17ef51b5c7b710240b505a0838662&oe=5FD6E3B3)
 
 ## Settings Preview
 
