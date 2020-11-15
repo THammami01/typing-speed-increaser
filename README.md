@@ -20,7 +20,7 @@ Note that:
 - python 3.x must be installed first
 - .exe files will be uploaded in future commits and python will no longer be required to run this program
 
-![IMG1](https://z-p3-scontent.ftun6-1.fna.fbcdn.net/v/t1.15752-9/118580571_1493939067660439_6125013222842830874_n.png?_nc_cat=105&_nc_sid=b96e70&_nc_ohc=Uzk2_TK1KK0AX-W5Amc&_nc_ht=z-p3-scontent.ftun6-1.fna&oh=5e48150093c7a77bdb806fea085a89d8&oe=5F70EB8B)
+![IMG1](https://scontent.ftun5-1.fna.fbcdn.net/v/t1.15752-9/118566505_2623489101315184_14490849271380032_n.png?_nc_cat=110&ccb=2&_nc_sid=ae9488&_nc_ohc=R_Y32jjlcNIAX-we11h&_nc_ht=scontent.ftun5-1.fna&oh=68f17ef51b5c7b710240b505a0838662&oe=5FD6E3B3)
 
 ## App Preview
 
@@ -28,12 +28,12 @@ Note that:
 
 ## Settings Preview
 
-![IMG3](https://z-p3-scontent.ftun6-1.fna.fbcdn.net/v/t1.15752-9/118588451_1652264971596783_7977992025263211814_n.png?_nc_cat=110&_nc_sid=b96e70&_nc_ohc=nNdyL6XuT44AX-MHTTW&_nc_ht=z-p3-scontent.ftun6-1.fna&oh=472b7299bd46029429a6d24a82615a2b&oe=5F70F1F4)
+![IMG3](https://scontent.ftun5-1.fna.fbcdn.net/v/t1.15752-9/118588451_1652264971596783_7977992025263211814_n.png?_nc_cat=110&ccb=2&_nc_sid=ae9488&_nc_ohc=toQLAYeWkp0AX9dsKvX&_nc_ht=scontent.ftun5-1.fna&oh=e8ebf848cc079d7943d68e80f0efcd35&oe=5FD7C6F4)
 
 ## Custom Text Preview
 
-![IMG4](https://z-p3-scontent.ftun6-1.fna.fbcdn.net/v/t1.15752-9/118560931_320086209048517_7496966804044548463_n.png?_nc_cat=107&_nc_sid=b96e70&_nc_ohc=yvlYbxq48oYAX-YBVFM&_nc_ht=z-p3-scontent.ftun6-1.fna&oh=9e6bdf66cc4727bc94b6ebecc8498096&oe=5F6FC6CA)
+![IMG4](https://scontent.ftun5-1.fna.fbcdn.net/v/t1.15752-9/118560931_320086209048517_7496966804044548463_n.png?_nc_cat=107&ccb=2&_nc_sid=ae9488&_nc_ohc=h9aH2P1ZON0AX8poCqW&_nc_ht=scontent.ftun5-1.fna&oh=b228c573a9720eddd44d8316bd5d0ffd&oe=5FD69BCA)
 
 ## About Preview
 
-![IMG5](https://z-p3-scontent.ftun5-1.fna.fbcdn.net/v/t1.15752-9/118521626_3063320810444933_7168023648249836845_n.png?_nc_cat=103&_nc_sid=b96e70&_nc_ohc=BY6OhjGsmBwAX_tk7ud&_nc_ht=z-p3-scontent.ftun5-1.fna&oh=23c475d48225db5f3ae0904bbbfce349&oe=5F6E67D1)
+![IMG5](https://scontent.ftun5-1.fna.fbcdn.net/v/t1.15752-9/118622136_362391851585763_4399887185773225588_n.png?_nc_cat=110&ccb=2&_nc_sid=ae9488&_nc_ohc=7pvKH2ZpUscAX9JcgIj&_nc_ht=scontent.ftun5-1.fna&oh=7ab0a426e233da69a036cbbd5530f107&oe=5FD4DF55)
