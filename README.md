@@ -22,16 +22,16 @@ Note that:
 
 ## App Preview
 
-![IMG2](/Screenshot 01.png)
+![IMG2](/Screenshot%2001.png)
 
 ## Settings Preview
 
-![IMG3](/Screenshot 02.png)
+![IMG3](/Screenshot%2002.png)
 
 ## Custom Text Preview
 
-![IMG4](/Screenshot 03.png)
+![IMG4](/Screenshot%2003.png)
 
 ## About Preview
 
-![IMG5](/Screenshot 04.png)
+![IMG5](/Screenshot%2004.png)
