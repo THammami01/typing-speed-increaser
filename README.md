@@ -1,4 +1,4 @@
-# TSI (Version 2.0.0)
+# TSI (Version 1.0.0)
 
 Program that will help students and everyone practice and increase their typing speed.
 
