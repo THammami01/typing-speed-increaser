@@ -1,6 +1,6 @@
-# TSI (Version 1.0.0)
+# TSI (Version 2.0.0)
 
-Program that will help students and everyone practice and increase their typing speed.
+Typing Speed Increaser -- Program that helps students and everyone practice and increase their typing speed.
 
 ## How To
 
@@ -17,21 +17,34 @@ python setting_v2.0.py
 ```
 
 Note that:
+
 - python 3.x must be installed first
 - .exe files will be uploaded in future commits and python installation will no longer be required to run this program
 
 ## App Preview
 
-![IMG2](/Screenshot%2001.png)
+![SS0](/Screenshots/00.png)
+
+![SS1](/Screenshots/01.png)
 
 ## Settings Preview
 
-![IMG3](/Screenshot%2002.png)
+![SS2](/Screenshots/02.png)
 
 ## Custom Text Preview
 
-![IMG4](/Screenshot%2003.png)
+![SS3](/Screenshots/03.png)
+
+## Themes Preview
+
+![SS4](/Screenshots/04.png)
+
+![SS5](/Screenshots/05.png)
 
 ## About Preview
 
-![IMG5](/Screenshot%2004.png)
+![SS6](/Screenshots/06.png)
+
+## Enjoy Typing
+
+![GIF](/Screenshots/GIF.gif)

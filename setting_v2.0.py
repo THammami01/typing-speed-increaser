@@ -180,19 +180,19 @@ def show_about():
             "Caviar Dreams Bold", "12", "bold"), fg="white", bg="#080808", relief=tk.RIDGE, borderwidth=2)
     about_label.pack(side=tk.TOP, fill=tk.BOTH,
                       anchor=tk.CENTER, padx=10, pady=10)
-    cont = "TSI (Typing Speed Increaser)\n\nVersion 2.0.0\n\n\nProgram that will help students and everyone practice and increase their typing speed."
+    cont = "TSI (Typing Speed Increaser)\n\nVersion 2.0.0\n\n\nProgram that helps students and everyone practice and increase their typing speed."
     about_text = tk.Label(about_tl, text=cont, width=10, wraplength=250, pady=0, font=(
             "Caviar Dreams Bold", "10", "bold"), fg="white", bg="#080808")
     about_text.pack(side=tk.TOP, fill=tk.BOTH,
                       anchor=tk.CENTER, padx=10, pady=10)
     
-    me_link = tk.Label(about_tl, text="Created by: Tarek Hammami", width=10, wraplength=250, pady=0, font=(
+    me_link = tk.Label(about_tl, text="Developed by: Tarek Hammami", width=10, wraplength=250, pady=0, font=(
             "Caviar Dreams Bold", "10", "bold underline"), fg="white", bg="#080808")
     me_link.pack(side=tk.TOP, fill=tk.BOTH,
                       anchor=tk.CENTER, padx=10, pady=10)
     me_link.bind("<1>", lambda key: __import__("webbrowser").open("https://www.facebook.com/thammami.me"))
     
-    islaib_link = tk.Label(about_tl, text="Student at ISLAI Beja", width=10, wraplength=250, pady=0, font=(
+    islaib_link = tk.Label(about_tl, text="Student at HIALCS (ISLAI) Beja", width=10, wraplength=250, pady=0, font=(
             "Caviar Dreams Bold", "10", "bold underline"), fg="white", bg="#080808")
     islaib_link.pack(side=tk.TOP, fill=tk.BOTH,
                       anchor=tk.CENTER, padx=10, pady=10)
