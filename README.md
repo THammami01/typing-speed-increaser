@@ -45,6 +45,6 @@ Note that:
 
 ![SS6](/Screenshots/06.png)
 
-## Enjoy Typing
+## Enjoy Typing 🎉
 
 ![GIF](/Screenshots/GIF.gif)
